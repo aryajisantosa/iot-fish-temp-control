@@ -1,0 +1,21 @@
+# Arduino / PlatformIO build output
+build/
+*.bin
+*.elf
+*.hex
+.pio/
+
+# Konfigurasi lokal / rahasia
+secrets.h
+config.local.h
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
