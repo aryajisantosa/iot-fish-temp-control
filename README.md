@@ -1,5 +1,6 @@
 # Smart Cold Storage: Sistem IoT Kendali Suhu dan Monitoring Kesegaran Ikan
 
+
 ![Platform](https://img.shields.io/badge/platform-ESP32-blue)
 ![Framework](https://img.shields.io/badge/framework-Arduino-00979D)
 ![Control](https://img.shields.io/badge/kendali-Fuzzy%20Logic-orange)
